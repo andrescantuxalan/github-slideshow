@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenida Trotsky"
 ---
-Your text
+Que bueno que regresaste
 Use the left arrow to go back!
